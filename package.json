@@ -1,0 +1,19 @@
+{
+  "name": "lc-judge-autoupdate",
+  "version": "1.0.0",
+  "description": "自动校验文件更新并刷新页面",
+  "main": "dist/index.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Liuc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/1401296681/AutoUpdate.git"
+  }  
+}
