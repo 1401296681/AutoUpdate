@@ -1,6 +1,6 @@
 {
-  "name": "lc-judge-autoupdate",
-  "version": "1.0.0",
+  "name": "cjudge-autoupdate",
+  "version": "1.2.1",
   "description": "自动校验文件更新并刷新页面",
   "main": "dist/index.min.js",
   "files": [
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["vue", "react", "javascript", "js", "element-ui"],
   "author": "Liuc",
   "license": "MIT",
   "repository": {
