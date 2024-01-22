@@ -1,6 +1,6 @@
 {
   "name": "cjudge-autoupdate",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "自动校验文件更新并刷新页面",
   "main": "dist/index.min.js",
   "files": [
